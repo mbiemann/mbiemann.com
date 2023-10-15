@@ -1,0 +1,11 @@
+$color-mode-type: data;
+
+@import "bootstrap/scss/bootstrap";
+
+$bootstrap-icons-font-dir: "../node_modules/bootstrap-icons/font/fonts";
+@import "bootstrap-icons/font/bootstrap-icons";
+
+// .container {
+//     min-width: 240px;
+//     max-width: 960px;
+// }
