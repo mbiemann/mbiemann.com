@@ -5,7 +5,12 @@ $color-mode-type: data;
 $bootstrap-icons-font-dir: "../node_modules/bootstrap-icons/font/fonts";
 @import "bootstrap-icons/font/bootstrap-icons";
 
-// .container {
-//     min-width: 240px;
-//     max-width: 960px;
-// }
+.container {
+    min-width: 240px;
+    max-width: 1024px;
+}
+
+.navbar-toggler {
+    border: 0px none;
+    padding: 0px;
+}
