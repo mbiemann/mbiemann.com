@@ -61,7 +61,7 @@ export function App() {
           Marcell Biemann
         </h1>
         <p className="pt-3 text-center">
-          Welcome to my <span className="fst-italic">(under construction)</span> website.
+          Welcome to my <span className="fst-italic">(under construction!!)</span> website.
         </p>
       </div>
 
