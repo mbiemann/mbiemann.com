@@ -1,16 +1,11 @@
 $color-mode-type: data;
 
-@import "bootstrap/scss/bootstrap";
+@import '~bootstrap/scss/bootstrap';
 
-$bootstrap-icons-font-dir: "../node_modules/bootstrap-icons/font/fonts";
-@import "bootstrap-icons/font/bootstrap-icons";
-
-.container {
-    min-width: 240px;
-    max-width: 1024px;
-}
-
-.navbar-toggler {
-    border: 0px none;
-    padding: 0px;
+.main {
+    min-width: 400px;
+    min-height: 240px;
+    height: 100vh !important;
+    background: url("assets/bgimage.png") no-repeat center center;
+    background-size: cover;
 }
