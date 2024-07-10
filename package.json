@@ -1,9 +1,10 @@
 {
     "name": "mbiemann-website",
     "source": "src/index.html",
+    "browserslist": "> 0.5%, last 2 versions, not dead",
     "scripts": {
         "start": "parcel",
-        "build": "rm -rf dist && parcel build --public-url .",
+        "build": "parcel build",
         "clean": "rm -rf .parcel-cache dist node_modules package-lock.json"
     },
     "dependencies": {
