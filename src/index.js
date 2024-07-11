@@ -16,8 +16,8 @@ function App() {
               <Stack gap={3}>
                 <h1>Marcell Biemann</h1>
                 <ListGroup>
-                  <ListGroup.Item action href="https://github.com/mbiemann"><Github size={25} className="me-3" /> github.com/mbiemann</ListGroup.Item>
-                  <ListGroup.Item action href="https://www.linkedin.com/in/mbiemann/"><Linkedin size={25} className="me-3" /> linkedin.com/in/mbiemann</ListGroup.Item>
+                  <ListGroup.Item action href="https://github.com/mbiemann"><Github size={25} className="me-2" />mbiemann</ListGroup.Item>
+                  <ListGroup.Item action href="https://www.linkedin.com/in/mbiemann/"><Linkedin size={25} className="me-2" />in/mbiemann</ListGroup.Item>
                 </ListGroup>
               </Stack>
             </Card.Body>
