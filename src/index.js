@@ -23,7 +23,7 @@ function App() {
                   <a className="text-white-50 link-underline link-underline-opacity-0" href="https://github.com/mbiemann/mbiemann.com">
                     mbiemann
                     <CCircle className="mx-2" />
-                    2024
+                    2025
                   </a>
                 </Container>
               </Stack>
